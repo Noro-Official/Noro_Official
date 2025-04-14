@@ -41,6 +41,7 @@ Whether you're an educator, researcher, builder, or student:
 - Use our tools in your course
 - Contribute to curriculum or code
 - Collaborate on future systems
+- Visit our current product repo: https://github.com/Noro-Official/OQS
 
 Coming soon:
 - [ ] Noro Wiki & Learning Hub  
